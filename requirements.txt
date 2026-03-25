@@ -1,0 +1,5 @@
+flask
+numpy
+xgboost
+mysql-connector-python
+openai

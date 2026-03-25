@@ -1,5 +1,4 @@
-# SleepSense-AI
-
+# SleepSenseAI
 
 SleepSenseAI is a web application that uses AI to analyze sleep patterns and provide personalized sleep recommendations. It features a sleep calculator, user authentication, and a blog section for sleep-related articles.
 

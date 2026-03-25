@@ -1,0 +1,8 @@
+{
+  "users": [
+    {
+      "username": "keerthichowdary589@gmail.com",
+      "password_hash": "scrypt:32768:8:1$OvQmz34PhUBQvEHC$5a65c2e28a3fb0e85be52687c99b5bb97c8080fd6758a6d67eff160debbc55e7a27109d57146787d390eeb3e882e58ca836d7a0697f03c686e27ea01b8e8bf0e"
+    }
+  ]
+}
